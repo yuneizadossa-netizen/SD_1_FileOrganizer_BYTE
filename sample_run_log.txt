@@ -1,0 +1,13 @@
+Test folder created: C:\Users\LENEVO\Documents\tests\TestFolder
+7 sample files added. Click Organize to try it.
+
+[DRY RUN] archive.zip -> Archives/archive.zip
+[DRY RUN] notes.txt -> Text/notes.txt
+[DRY RUN] photo.jpg -> Images/photo.jpg
+[DRY RUN] report.pdf -> PDF/report.pdf
+[DRY RUN] song.mp3 -> Audio/song.mp3
+[DRY RUN] unknown.xyz -> Others/unknown.xyz
+[DRY RUN] video.mp4 -> Video/video.mp4
+
+Done: 7 file(s) would be moved.
+
